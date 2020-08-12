@@ -1,5 +1,13 @@
 ### Hello people of the Interwebs ! 👋
 
+I am  **/cube/** . A researcher and statitician working in the development sector.
+
+- 🔭 I’m currently build sustainable Education Sector solutions.
+- 🌱 I’m always learning `R`
+- 💬 Ask me about **Data Privacy**.
+- 📫 How to reach me: Search `TheDataAreClean` on the internet.
+- 😄 Pronouns: `He` / `Him`
+
 <!--
 **TheDataAreClean/TheDataAreClean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
