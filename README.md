@@ -1,6 +1,6 @@
 ### Hello people of the Interwebs ! 👋
 
-## I am  **/cube/** . A researcher and statitician working in the development sector.
+## I am  `/cube/` . A researcher and statitician working in the development sector.
 
 - 🔭 I’m building sustainable `Education Sector` solutions.
 - 🌱 I’m always learning `R`
