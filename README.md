@@ -2,11 +2,12 @@
 
 ## I am  `/cube/`. A researcher and statitician working in the development sector.
 
-- 🔭 I’m building sustainable `Education Sector` solutions.
-- 🌱 I’m always learning `R`
-- 💬 Ask me about `Data Privacy`.
-- 📫 How to reach me: Search `TheDataAreClean` on the internet.
-- 😄 Pronouns: `He` / `Him`
+- :telescope: All things `Education Sector` :books:
+- :seedling: Always learning `R` :computer:
+- :thought_balloon: Paranoid about `Data Privacy` :lock:
+- :mailbox: Search `TheDataAreClean` :mag:
+- :black_nib: Musings @ [thedataareclean.com](https://thedataareclean.com/) :globe_with_meridians:
+
 
 <!--
 **TheDataAreClean/TheDataAreClean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
