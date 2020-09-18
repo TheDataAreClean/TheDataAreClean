@@ -1,6 +1,6 @@
 ### Hello people of the Interwebs ! 👋
 
-## I am  `/cube/`. A researcher and statitician working in the development sector.
+## I am  `/cube/`. A researcher and statistician working in the development sector.
 
 - :telescope: All things `Education Sector` :books:
 - :seedling: Always learning `R` :computer:
