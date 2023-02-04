@@ -1,6 +1,5 @@
-### Hello people of the Interwebs ! 👋
-
-## I am `cube`. A researcher working in the social development sector.
+## Hello people of the Interwebs ! 👋
+> I am `cube` ! A researcher who's work lies on the intersection of improving access to information and enhancing the data literacy of new audiences through a variety of mediums
 
 - 📊 All things `Statistics`
 - 🌈 Learning to be a better `Storyteller`
