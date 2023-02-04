@@ -1,12 +1,10 @@
 ### Hello people of the Interwebs ! 👋
 
-## I am  `cube`. A researcher working in the social development sector.
+## I am `cube`. A researcher working in the social development sector.
 
-- :telescope: All things `Education Sector` :books:
-- :seedling: Always learning `R` :computer:
-- :thought_balloon: Paranoid about `Data Privacy` :lock:
-- :mailbox: Search `TheDataAreClean` :mag:
-- :black_nib: Musings @ [thedataareclean.com](https://thedataareclean.com/) :globe_with_meridians:
+- 📊 All things `Statistics`
+- 🌈 Learning to be a better `Storyteller`
+- 🌐 Work @ [`thedataareclean.com`](https://thedataareclean.com/)
 
 <!--
 **TheDataAreClean/TheDataAreClean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
