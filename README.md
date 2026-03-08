@@ -1,9 +1,15 @@
-## Hello people of the Interwebs ! 👋
-> I am `cube` ! A researcher who's work lies on the intersection of improving access to information and enhancing the data literacy of new audiences through a variety of mediums
+## hello, i am arpit !
+_i am curious about everything._
 
-- 📊 All things `Statistics`
-- 🌈 Learning to be a better `Storyteller`
-- 🌐 Work @ [`thedataareclean.com`](https://thedataareclean.com/)
+
+
+> at [work](https://thedataareclean.com/work/), i am a multi-disciplinary data communicator.
+> 
+> during [play](https://thedataareclean.com/play/), i do whatever i want.
+
+
+
+check out [`thedataareclean.com`](https://thedataareclean.com/) !
 
 <!--
 **TheDataAreClean/TheDataAreClean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
